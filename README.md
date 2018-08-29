@@ -3,8 +3,11 @@ Class Project
 
 # Members
 Jackson Boyd
+
 Omar Desvergunat, Jr
+
 Nil Patel
+
 Sopheap Sok
 
 Ideas
