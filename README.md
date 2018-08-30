@@ -24,7 +24,9 @@ Study App- includes flashcards, upload notes, highlight option etc.
 
 
 Vote:
+
 Omar - Study App
+
 Sopheap - Study app or Food wastage app
 
 
