@@ -2,10 +2,7 @@ Project Proposal
 
 
 Members:
-Omar Desvergunat, Jr
-Nil Patel
-Sopheap Sok
-Jackson Boyd
+Omar Desvergunat Jr, Nil Patel, Sopheap Sok, Jackson Boyd
 
 
 Vision Statement:
