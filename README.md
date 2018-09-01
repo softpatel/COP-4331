@@ -24,6 +24,9 @@ Study App- includes flashcards, upload notes, highlight option etc.
 
 Pomodoro Timer App - Allows the user to change the time, write notes off what distracts them during their session, track their sessions data, friendly/clean UI
 
+**(We could add the Pomodoro Timer as an additional feature (see the readme). Other apps don’t have this. We could somehow award points or just keep track and show how long a user has been productive. Besides, you could argue Quizlet and Evernote also offer a simple and cheap way to study too so we need to come up with new feature ideas anyways.)** - Nil
+
+
 Handyman Uber - Uber but with a handyman. User creates a post signifying what they need fixed, Handymen can then accept their request. User 
 
 Vote:
