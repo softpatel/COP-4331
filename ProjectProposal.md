@@ -1,7 +1,7 @@
 Project Proposal 
 
 
-Members
+Members:
 Omar Desvergunat, Jr
 Nil Patel
 Sopheap Sok
