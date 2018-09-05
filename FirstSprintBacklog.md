@@ -15,3 +15,5 @@ Member responsible for:
 
 
 Sprint Goals:
+
+Create a custom url address for the web app.
