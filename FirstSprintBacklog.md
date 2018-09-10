@@ -1,13 +1,19 @@
-Sprint date: 9/12/18
+Sprint date: 9/16/18
 
 Features selected:
 
-Website URL
+Website URL and Connection to database 
 
 
-Feature break down plan:
+User Stories:
 
-Use of Heroku
+
+1. As a user, I want to be able to type or click a URL link and be brought to the study web app.
+
+2. As a user, I want to be able to save my notes.
+
+3. As a user, I want to be able to upload my notes. 
+
 
 
 
