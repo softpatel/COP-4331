@@ -14,6 +14,7 @@ User Stories:
 
 3. As a user, I want to be able to upload my notes. 
 
+4. 
 
 
 
@@ -21,7 +22,7 @@ Member responsible for:
 
 Nil- URL link and UML chart
 
-Sopheap - upload file ability 
+Sopheap - upload file ability and product backlog 
 
 Jackson- connection to a database
 
