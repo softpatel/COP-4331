@@ -18,9 +18,14 @@ User Stories:
 
 
 Member responsible for:
+
 Nil- URL link
+
 Sopheap - upload file ability 
+
 Jackson- connection to a database
+
+Omar - UML chart
 
 Sprint Goals:
 
