@@ -23,3 +23,7 @@ Member responsible for:
 Sprint Goals:
 
 Create a custom url address for the web app.
+
+Create database
+
+Connect database to web app
