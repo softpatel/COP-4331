@@ -2,7 +2,11 @@ Sprint date: 9/16/18
 
 Features selected:
 
-Website URL and Connection to database 
+1.Website URL 
+
+2.Connection to database 
+
+3. Pomodoro timer
 
 
 User Stories:
@@ -14,7 +18,17 @@ User Stories:
 
 3. As a user, I want to be able to upload my notes. 
 
-4. 
+4. As a user, I want to be able to input how long I need to study.
+
+5. As a user, I want to be able to input how long my breaks should be.
+
+6. As a user, I want the app to notify me for study breaks.
+
+7. As a user, I want to be able to view how long I've study on certain materials.
+
+8. As a user, I want to be able to save the amount of time I have accumulated studying to my account.
+
+9. As a user, I want to be able to view my study proccess in a meaningful way.
 
 
 
@@ -35,3 +49,5 @@ Create a custom url address for the web app.
 Create database
 
 Connect database to web app
+
+Set up timer.
