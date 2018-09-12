@@ -19,13 +19,13 @@ User Stories:
 
 Member responsible for:
 
-Nil- URL link
+Nil- URL link and UML chart
 
 Sopheap - upload file ability 
 
 Jackson- connection to a database
 
-Omar - UML chart
+Omar - burn down chart
 
 Sprint Goals:
 
