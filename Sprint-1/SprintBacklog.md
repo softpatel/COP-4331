@@ -34,13 +34,25 @@ User Stories:
 
 Member responsible for:
 
-Nil- URL link and UML chart
+Nil- 
+1. URL link
 
-Sopheap - upload file ability and product backlog 
+2. UML chart 
 
-Jackson- connection to a database
+3. User accounts
 
-Omar - burn down chart
+Sopheap - 
+1. upload file ability
+2. product backlog 
+3. Display timer
+
+Jackson-
+1. Connection to a database
+2. Save notes
+
+Omar - 
+1. burn down chart
+2. Menu button link
 
 Sprint Goals:
 
