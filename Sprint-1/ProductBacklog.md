@@ -1,15 +1,15 @@
 
-Create a URL link to the app
+1. Create a URL link to the app
 
   -As a user, I will be able to navigate to the web app using a link.
   
 
-Connect to a database
+2. Connect to a database
 
   -As a user, I will be able to upload, update and save my notes to my account.
   
 
-Allow users to create accounts
+3. Allow users to create accounts
 
   -As a user, I will be able to create an account.
   
@@ -17,7 +17,7 @@ Allow users to create accounts
   
   -As a user, I will be able to enter and update my personal information.
 
-Let users open and write in a text editor ( use bold, highlighting, etc. )
+4. Let users open and write in a text editor ( use bold, highlighting, etc. )
 
   -As a user, I will be able create a blank note page.
   
@@ -32,7 +32,7 @@ Let users open and write in a text editor ( use bold, highlighting, etc. )
   -As a user, I will be able to save notes and markups like highlighted and bolded words. 
   
   
-User Interface
+5. User Interface
 
  -As a user, I want to be able to view all my notes.
  
@@ -43,7 +43,7 @@ User Interface
  -As a user, I want to be able to click to create new notes.
  
 
-Pomodoro timer
+6. Pomodoro timer
 
  -As a user, I want to be able to input how long I need to study.
  
@@ -58,11 +58,11 @@ Pomodoro timer
  -As a user, I want to be able to view my study proccess in a meaningful way. 
  
 
-Convert to PDF/ download option
+7. Convert to PDF/ download option
 
  -As a user, I want to be able to download my notes as different type of files.  
 
 
-Share
+8. Share
 
  -As a user, I want to be able to invite others to view my notes notes. 
