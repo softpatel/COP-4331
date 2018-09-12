@@ -66,3 +66,7 @@
 8. Share
 
  -As a user, I want to be able to invite others to view my notes notes. 
+ 
+9. Collaboration
+
+-As a user, I want to be able to work on a note with multiple people at the same time.
