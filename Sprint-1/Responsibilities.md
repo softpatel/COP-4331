@@ -4,8 +4,7 @@ Member responsible for:
 Nil- 
 1. URL link
 2. UML chart 
-3. User accounts
-4. Combine groups code together and push to heroku web link.
+3. Combine groups code together and push to heroku web link.
 
 Sopheap - 
 1. upload file ability
