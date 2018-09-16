@@ -6,7 +6,6 @@ var path = require("path")
 app.get("/", function(req, res) {
     res.sendFile(path.join(__dirname+'/public/home.html'));
 });
-});
 
 app.get("/menu", function(req,res) {
     res.send("This is where the menu will be.");
@@ -14,7 +13,7 @@ app.get("/menu", function(req,res) {
 
 app.get("/timer", function(req,res) {
     res.sendFile(path.join(__dirname+'/timer.html'));
-})
+});
 
 app.listen(port, function() {
   console.log("Study app has been started!");
