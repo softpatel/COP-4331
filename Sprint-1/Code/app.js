@@ -4,7 +4,8 @@ var port = process.env.PORT || 3000;
 var path = require("path")
 
 app.get("/", function(req, res) {
-  res.send("Welcome to the Study App!");
+    res.sendFile(path.join(__dirname+'/public/home.html'));
+});
 });
 
 app.get("/menu", function(req,res) {
