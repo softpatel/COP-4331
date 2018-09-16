@@ -1,9 +1,8 @@
 Run Instructions
 
-1) Put app.js, package.json (and any additional files added in the future) in the same folder
-on your computer
+1) Use command prompt to go into the "studyapp" folder
 
-2) Use command prompt to go to the folder
+2) Download dependencies by calling "npm install"
 
 3) Run the app using the command "node app.js"
 
