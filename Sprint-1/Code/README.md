@@ -1,6 +1,6 @@
 Run Instructions
 
-1) Use command prompt to go into the "studyapp" folder
+1) Place all files into one place.
 
 2) Download dependencies by calling "npm install"
 
