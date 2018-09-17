@@ -1,0 +1,41 @@
+<! Main timer function from http://navaneeth.me/simple-countdown-timer-using-javascript/#.W51-OuhKjcc>
+<html>
+    
+    <body>
+        <h1> <center> <div id="timer"></div> </center> </h1>
+        
+        <script type="text/javascript">
+            function user(){
+                var userInput = document.getElementById('userTime').value;
+                countdown(userInput);
+                
+            }
+            
+            function countdown(minutes) {
+                var seconds = 60;
+                var mins = minutes;
+                function tick() {
+                    var counter = document.getElementById("timer");
+                    var current_minutes = mins-1;
+                    seconds--;
+                    counter.innerHTML =
+                    current_minutes.toString() + ":" + (seconds < 10 ? "0" : "") + String(seconds);
+                    if( seconds > 0 ) {
+                        setTimeout(tick, 1000);
+                    } else {
+                        if(mins > 1){
+                           // countdown(mins-1);   never reach “00″ issue solved:Contributed by Victor Streithorst
+                           setTimeout(function () { countdown(mins - 1); }, 1000);
+                        } else {
+                            document.getElementById("timer").innerHTML = "You're Done Studying!";
+                        }
+                    }
+                }
+                tick();
+            }
+        </script>
+        Please Enter the Number of Minutes You Want to Study for:<br/>
+        <input type="text" id="userTime" />
+        <input type="button" value="Go" onclick="user()" />
+    </body>
+</html>
