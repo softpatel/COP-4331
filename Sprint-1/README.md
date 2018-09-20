@@ -16,9 +16,9 @@ Omar Desvergunat, Jr
 
 * [Sprint Backlog](https://docs.google.com/document/d/1WAGUrcN48MMMDMr9_PG7i_plx2v3byHPKjaYjl1dd4k/edit?usp=sharing)
 
-      * [UML diagram].(https://github.com/softpatel/COP-4331/blob/master/Sprint-1/UML.pdf)
+      * [UML diagram](https://github.com/softpatel/COP-4331/blob/master/Sprint-1/UML.pdf)
       
-      * [Burndown Chart].(https://github.com/softpatel/COP-4331/blob/master/Sprint-1/BurnDown.pdf)
+      * [Burndown Chart](https://github.com/softpatel/COP-4331/blob/master/Sprint-1/BurnDown.pdf)
       
 
 ### Member Responsibilities ###
