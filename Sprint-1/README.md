@@ -9,18 +9,25 @@ Member responsible for:
 Nil-
 
 URL link
+
 UML chart
+
 Combine groups code together and push to heroku web link.
+
 Sopheap -
 
 upload file ability
 product backlog and sprint backlog
 Display timer
+
 Jackson-
 
 Connection to a database
+
 Save notes
+
 Omar -
 
 burn down chart
+
 Button link
