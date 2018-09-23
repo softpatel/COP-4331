@@ -16,7 +16,7 @@ Omar Desvergunat, Jr
 
 * [Sprint Backlog](https://docs.google.com/document/d/1l7iu7PJNLJapmyQQdW0HSZuF3IqXyqUblONHB6es5C8/edit?usp=sharing)
 
-     
+* [Requirements](https://github.com/softpatel/COP-4331/edit/master/Sprint-2/Requirements.md) 
 
-### Member Responsibilities ###
+
 
