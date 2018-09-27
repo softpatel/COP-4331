@@ -12,5 +12,13 @@
  * A new time can be added or press the back arrow to get back to the Menu page.
    
  3. Click "Sign Up"
-  *
+  * The register pager should appear and the user will see "Sign Up Form". Under the statement is a username input box, a password input       box, and a "Submit" button.
+  * Input a username and password and click "Submit"
+  * A secret page will load up and the user will see "I'm batman (and you're logged in, congrats)"
+  * Press the back arrow twice to get back to Menu page.
+  
+ 4. Click "Login"
+  * The login page will appear and the user will see "Login!". Under the statement is a username input box, a password input box, and a         "Login!" button.
+  * Enter the same username and password used during sign up and press the "Login!" button.
+  * "Cannot POST /login" will appear because the user's home page have not been developed yet.
   
