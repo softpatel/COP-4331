@@ -1,7 +1,7 @@
 # User Testing #
 
 1. Type  https://warm-eyrie-11186.herokuapp.com/ into a brower.
- *The StudyApp home page will appear.
+  *The StudyApp home page will appear.
  
  *"Welcome to the StudyApp!" is the header.
  
