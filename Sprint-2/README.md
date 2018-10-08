@@ -25,4 +25,4 @@ Omar Desvergunat, Jr
 * [Class](https://github.com/softpatel/COP-4331/blob/master/Sprint-2/ClassUML.pdf)
 
 ### Demo ###
-https://youtu.be/PHNIfy5Wvwg
+* [Demonstration Video](https://youtu.be/PHNIfy5Wvwg)
