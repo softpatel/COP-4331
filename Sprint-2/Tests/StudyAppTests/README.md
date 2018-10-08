@@ -6,7 +6,7 @@ The tests were written using the NetBeans IDE and the Java Selenium web driver. 
 
 2. Download the Java Selenium web driver at https://docs.seleniumhq.org/download/
 
-3. Download the Tests.zip
+3. Download Tests.zip
 
 4. Unzip the folder
 
