@@ -7,13 +7,11 @@
 "As a user, I want to save my notes to my account."
 1. A user shall be able to save their notes to their account.
 
-"As a user, I want to have a profile."
-1. A user shall be able to access their account.
-2. A user shall be able to see their notes and profile in there account. 
+"As a user, I want to be able to view how long I've study on certain materials."
+1. A user shall be able to view a study log on the specified material.
 
-"As a user, I want to add my personal information to my profile."
-1. A user shall be able to add personal info to their profile.
-2. A user sahll be able to save their added info to their profile.
+"As a user, I want to be able to save the amount of time I have accumulated studying to my account."
+1. A user shall be able to save the amount of time they have studied to their account. 
 
 "As a user, I want to create a new note file."
 1. A user shall be able to create a new blank text file.
@@ -30,3 +28,6 @@
 
 "As a user, I want to be able to input how long my breaks should be."
 1. A user shall be able to input how long their breaks last by minutes. 
+
+"As a user, I want notifications for study breaks."
+1. A user shall be able to see and/or hear a notifications alerting them to change of session. 
