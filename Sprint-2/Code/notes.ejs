@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src='https://cloud.tinymce.com/stable/tinymce.min.js?apiKey=7crc7id62nu3jrhjk61274hjiqe1zope3wz7gnuk1amdw6n0'></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script>
+  tinymce.init({
+    selector: '#mytextarea'
+    /*setup: function (editor) {
+      editor.on('DblClick', function () {
+        // This is a common function for loading initial content into TinyMCE
+        //editor.setContent('Using the on init stuff!');
+        // You could run your alert here as you know the editor in initialized
+        var content = tinymce.get('mytextarea').getContent();
+
+        editor.setContent(content);
+
+        console.log(content);
+      });
+    }*/
+  });
+  </script>
+  <script>
+    $(document).ready(function() {
+      $("#note-form").submit(function(e) {
+        console.log("Button pushed");
+        var content = tinymce.get('mytextarea').getContent();
+        console.log(content);
+      });
+    });
+  </script>
+</head>
+
+<body>
+<h1>Create a Note</h1>
+  <form id="note-form" action="/notes" method="POST">
+    <textarea name="content" id="mytextarea"></textarea>
+    <input type='submit' id="donebtn" value='Save'>
+  </form>
+</body>
+</html>

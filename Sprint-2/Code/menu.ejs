@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <title>StudyApp</title>
+    </head>
+    <body>
+        <h2>Menu</h2>
+        <a href="timer">Timer</a>
+        <br>
+        <a href="notes">Notes</a>
+
+    <% user.notes.forEach(function(note){ %>
+        <p>A note is here.</p>
+        <p>Note's Object ID: <%= note %></p>
+    <% }) %>
+
+    </body>
+</html>
