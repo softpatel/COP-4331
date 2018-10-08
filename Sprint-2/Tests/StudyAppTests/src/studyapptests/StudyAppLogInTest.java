@@ -10,8 +10,7 @@ public class StudyAppLogInTest
 {
     public static void main(String[] args) throws InterruptedException
     {
-        //System.setProperty("webdriver.chrome.driver", "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
-        System.setProperty("webdriver.gecko.driver", "C:\\geckodriver-v0.22.0-win64\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "<enter the location of geckodriver.exe here>");
         WebDriver driver = new FirefoxDriver();
         driver.get("https://warm-eyrie-11186.herokuapp.com/");
         
