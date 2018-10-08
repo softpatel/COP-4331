@@ -17,6 +17,6 @@ The tests were written using the NetBeans IDE and the Java Selenium web driver. 
 7. Open the StudyAppTests project in NetBeans
 
 8. On line 13 of each of the files, enter the location of the gecko driver executeable where it says
-   "<enter the location of geckodriver.exe here>"
+   "Enter file path for geckodriver.exe here"
 
 9. Run each test file individually
