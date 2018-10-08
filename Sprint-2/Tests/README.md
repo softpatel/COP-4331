@@ -29,4 +29,5 @@
   * Clicking the "Notes" link will bring the user to the notes page where a text editor is located. 
   * Users will be allow to type in the text editor and edit, view, and formate their notes as they please.
   * Below the text editor is a "Save" button. Pressing this will save the note file to the user's account. The note's ID will appear on the     user's home page.
+
 *"Notes" and "Menu" link is the same link as mentioned above.
