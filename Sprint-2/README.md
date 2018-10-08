@@ -18,6 +18,8 @@ Omar Desvergunat, Jr
 
 * [Requirements](https://github.com/softpatel/COP-4331/blob/master/Sprint-2/Requirements.md) 
 
+* [Burndown Chart](https://github.com/softpatel/COP-4331/blob/master/Sprint-2/Burndown%20chart.pdf)
+
 ### UML Diagrams ###
 * [Architecture](https://github.com/softpatel/COP-4331/blob/master/Sprint-2/Architecture%20UML.pdf)
 * [Class](https://github.com/softpatel/COP-4331/blob/master/Sprint-2/ClassUML.pdf)
