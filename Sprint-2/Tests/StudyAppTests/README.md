@@ -6,15 +6,17 @@ The tests were written using the NetBeans IDE and the Java Selenium web driver. 
 
 2. Download the Java Selenium web driver at https://docs.seleniumhq.org/download/
 
-3. Download the files in StudyAppTests from GitHub into a folder
+3. Download the Tests.zip
 
-4. Download the gecko web driver from https://github.com/mozilla/geckodriver/releases.
+4. Unzip the folder
 
-5. Unzip the file
+5. Download the gecko web driver from https://github.com/mozilla/geckodriver/releases.
 
-6. Open the StudyAppTests project in NetBeans
+6. Unzip the file
 
-7. On line 13 of each of the files, enter the location of the gecko driver executeable where it says
+7. Open the StudyAppTests project in NetBeans
+
+8. On line 13 of each of the files, enter the location of the gecko driver executeable where it says
    <enter the location of geckodriver.exe here>
 
-8. Run each test file individually
+9. Run each test file individually
