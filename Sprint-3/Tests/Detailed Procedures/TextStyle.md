@@ -1,4 +1,4 @@
-# As a user, I want to be able to change the style of my typed words.# 
+# As a user, I want to be able to change the style of my typed words. # 
 1. A text editor is found in the notes and edit notes pages. 
 After logging in, the user shall see a list of their notes below a blue button that is label "Create Note". Above the button is a welcome message
 for the user. The message will take the user's username and attach "Welcome," to the front of it. Above the message is the "Notes" page header.
