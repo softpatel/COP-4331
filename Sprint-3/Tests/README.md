@@ -9,7 +9,7 @@
 
 5.Click Test Suites
 
-6. Double Click a suite and press the drop down arrow next to the run button(looks like play button) to choose what browser to run tests on. (Choose Chrome if possible) 
+6. Double Click a suite and press the drop down arrow next to the run button(looks like play button) to choose what browser to run tests    on. (Choose Chrome if possible) 
 
 7. Repeat step 6 for the rest of the test suites.
 
