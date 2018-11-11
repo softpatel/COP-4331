@@ -1,5 +1,7 @@
 # Instruction to Compile and Run Tests # 
+1. [Download Katalon Studio](https://www.katalon.com/download/)
 
+2.
 ## Test Suites ##
 ### User Account ###
 1. Test 04: Create user account (CAN ONLY RUN ONCE!!!) 
