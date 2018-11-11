@@ -7,4 +7,6 @@
 - Program will be running on localhost:3000
 - Search 'localhost:3000' in your web browser of choice
 
+Or [link](https://warm-eyrie-11186.herokuapp.com/) to the web app.
+
 **Note: appTest.js file in the test folder is a unit test that test if the routes to various pages in the web app are successful.**
