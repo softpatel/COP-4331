@@ -14,7 +14,9 @@
 7. Repeat step 6 for the rest of the test suites.
 
 *Note each test cases can be run individually. Just go to Test Cases.
+
 ** Read Test Suites section below for more info on each test cases.
+
 *** Don't Run Test 04 twice! Test will fail the second time since the account have already been made. 
 ## Test Suites ##
 ### User Account ###
