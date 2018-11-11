@@ -7,4 +7,4 @@
 - Program will be running on localhost:3000
 - Search 'localhost:3000' in your web browser of choice
 
-**Note: the appTest.js file in the test folder is a unit test that test if the routes to various pages in the web app are successful.Don't Run Test 04 twice! Test will fail the second time since the account have already been made.**
+**Note: the appTest.js file in the test folder is a unit test that test if the routes to various pages in the web app are successful.**
