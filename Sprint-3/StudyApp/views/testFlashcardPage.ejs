@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+      <title>StudyApp</title>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="/">Study App</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="/menu">Notes</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link" href="/flashcards">Flashcards</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link" href="/timer">Timer</a>
+                </li>
+              </ul>
+              <ul class="nav navbar-nav navbar-right">
+                <% if(user){ %>
+                  <li class="nav-item active">
+                    <a class="nav-link" href="#">Signed In As <%= user.username %></a>
+                  </li>
+                  <li class="nav-item active">
+                    <a class="nav-link" href="/logout">Logout</a>
+                  </li>
+                <% } %>
+              </ul>
+            </div>
+        </nav>
+        <center>
+            <h1 class="m-3">Flashcards</h1>
+            <h4>Welcome, <%= user.username %></h4>
+            
+            <a class="btn btn-primary m-3" href="flashcardsCreate">Create Flashcard</a>
+            
+            <div class="list-group w-75 mt-5">
+                <% flashcards.forEach(function(flashcard){ %>
+                    <a href="/flashcards/<%= flashcard._id %>/edit" class="list-group-item list-group-item-action"><%= flashcard.title %></a>
+                <% }) %>
+            </div>
+        </center> 
+    </body>
+</html>
