@@ -17,7 +17,7 @@
 
 ** Read Test Suites section below for more info on each test cases.
 
-*** Don't Run Test 04 twice! Test will fail the second time since the account have already been made. 
+**Don't Run Test 04 twice! Test will fail the second time since the account have already been made.**
 ## Test Suites ##
 ### User Account ###
 1. Test 04: Create user account (CAN ONLY RUN ONCE!!!) 
